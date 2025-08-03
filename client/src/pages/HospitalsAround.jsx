@@ -222,9 +222,9 @@ const HospitalsAround = () => {
                     : 'bg-[linear-gradient(90deg,_#a1c4fd_0%,_#c2e9fb_100%)] text-black'
                 } px-2 py-2.5 `}
               >
-                {/* <p className="font-bold">Your Location: {address}</p> */}
-                <p className="font-bold">Your Location: 
-Jagran Lakecity University, Mugaliyachap, Near Ratibad Bhopal – 462044</p>
+                <p className="font-bold">Your Location: {address}</p>
+{/*                 <p className="font-bold">Your Location: 
+Jagran Lakecity University, Mugaliyachap, Near Ratibad Bhopal – 462044</p> */}
               </div>
               <div>
                 {loadingHospitals ? (
