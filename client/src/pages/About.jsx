@@ -72,18 +72,18 @@ const teamMembers = [
     github: 'https://github.com/anshika15tomar',
     email: 'mailto:anshikatomar5588@gmail.com',
   },
-  {
-    id: 6,
-    name: 'Aman Sharma',
-    role: 'Backend Developer',
-    description:
-      'Aman explores emerging technologies to integrate cutting-edge features into our platform.',
+  // {
+  //   id: 6,
+  //   name: 'Aman Sharma',
+  //   role: 'Backend Developer',
+  //   description:
+  //     'Aman explores emerging technologies to integrate cutting-edge features into our platform.',
       
-    imageUrl: aman,
-    linkedin: 'https://www.linkedin.com/in/aman-sharma-962830255/',
-    github: '#',
-    email: '#',
-  },
+  //   imageUrl: aman,
+  //   linkedin: 'https://www.linkedin.com/in/aman-sharma-962830255/',
+  //   github: '#',
+  //   email: '#',
+  // },
 ];
 
 const AboutPage = () => {
