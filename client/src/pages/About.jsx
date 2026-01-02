@@ -13,7 +13,7 @@ import kunal from '../assets/images/kunal.jpg';
 import anshika from '../assets/images/anshika.jpg';
 import shital from '../assets/images/shital.jpg';
 import akshat from '../assets/images/akshat.jpg';
-import aman from '../assets/images/aman.jpg';
+//import aman from '../assets/images/aman.jpg';
 
 // Team member data
 const teamMembers = [
