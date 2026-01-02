@@ -39,17 +39,17 @@ const teamMembers = [
     github: 'https://github.com/shital2005421',
     email: 'mailto:shitalgokhe@gmail.com',
   },
-  {
-    id: 3,
-    name: 'Akshat Tambe',
-    role: 'Healthcare Researcher',
-    description:
-      'Akshat ensures that our platform meets high standards by staying updated with the latest trends in healthcare.',
-    imageUrl: akshat,
-    linkedin: 'https://www.linkedin.com/in/akshat-tambe-2b65a9259/',
-    github: 'https://github.com/tambeakshat',
-    email: 'mailto:shitalgokhe@gmail.com',
-  },
+  // {
+  //   id: 3,
+  //   name: 'Akshat Tambe',
+  //   role: 'Healthcare Researcher',
+  //   description:
+  //     'Akshat ensures that our platform meets high standards by staying updated with the latest trends in healthcare.',
+  //   imageUrl: akshat,
+  //   linkedin: 'https://www.linkedin.com/in/akshat-tambe-2b65a9259/',
+  //   github: 'https://github.com/tambeakshat',
+  //   email: 'mailto:shitalgokhe@gmail.com',
+  // },
   {
     id: 4,
     name: 'Kunal Nagwanshi',
@@ -61,17 +61,17 @@ const teamMembers = [
     github: 'https://github.com/Kunalnag1c',
     email: 'mailto:kunalnagwanshi94@gmail.com',
   },
-  {
-    id: 5,
-    name: 'Anshika Tomar',
-    role: 'Frontend Developer',
-    description:
-      'Anshika is focused on making our platform user-friendly and engaging, ensuring seamless interactions.',
-    imageUrl: anshika,
-    linkedin: 'https://www.linkedin.com/in/anshikatomar5588/',
-    github: 'https://github.com/anshika15tomar',
-    email: 'mailto:anshikatomar5588@gmail.com',
-  },
+  // {
+  //   id: 5,
+  //   name: 'Anshika Tomar',
+  //   role: 'Frontend Developer',
+  //   description:
+  //     'Anshika is focused on making our platform user-friendly and engaging, ensuring seamless interactions.',
+  //   imageUrl: anshika,
+  //   linkedin: 'https://www.linkedin.com/in/anshikatomar5588/',
+  //   github: 'https://github.com/anshika15tomar',
+  //   email: 'mailto:anshikatomar5588@gmail.com',
+  // },
   // {
   //   id: 6,
   //   name: 'Aman Sharma',
